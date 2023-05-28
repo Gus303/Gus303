@@ -5,8 +5,6 @@
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gus303&layout=compact&hide_border=true&title_color=066699&text_color=066699&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gus303&theme=react-dark)
-
 <div align="center">  
 <a href="mailto:contatogustavoroc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
