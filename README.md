@@ -21,7 +21,7 @@ const aboutMe = {
 ```
 
  <div align="center">  
-<h1 >My languages and Technologies</h1>
+<h1 >My languages and Technologies I'm Learning</h1>
   </div>
   
  <div align="center">
