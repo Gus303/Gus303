@@ -12,10 +12,10 @@
   ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   askMeAbout: ["web dev", "tech", "app dev"],
-   currentOccupation: ["last year student, open to learn new languages"],
-   challenge: "Finish my TCC",
-   currentProject: "I am developing a website about natural products for my TCC",
+   askMeAbout: ["Codes", "Ideas"],
+   currentOccupation: ["Last year student, open to learn new languages"],
+   challenge: "Learn React",
+   currentProject: "Nothing in this moment",
    funFact: "Basically all the languages I learned were at home"
 };
 ```
