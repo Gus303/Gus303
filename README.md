@@ -15,7 +15,7 @@ const aboutMe = {
    askMeAbout: ["Codes", "Ideas"],
    currentOccupation: ["Last year student, open to learn new languages"],
    challenge: "Learn React",
-   currentProject: "Nothing in this moment",
+   currentProject: "My-Project",
    funFact: "Basically all the languages I learned were at home"
 };
 ```
