@@ -14,7 +14,7 @@ const aboutMe = {
    pronouns: "he" | "him",
    askMeAbout: ["Codes", "Ideas"],
    currentOccupation: ["Student that is open to learn new languages"],
-   challenge: "Learn React",
+   challenge: "Learn React and TypeScript",
    currentProject: "My-project"
 };
 ```
