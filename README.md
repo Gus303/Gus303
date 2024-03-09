@@ -39,5 +39,4 @@ const aboutMe = {
 <a href="mailto:contatogustavoroc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://www.instagram.com/delaroche_303/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://codepen.io/Gus303" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"</a>
   </div>
