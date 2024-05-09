@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=066699&size=50&center=true&vCenter=true&width=1000&lines=Hey+Guys;My+Name+Is+Gustavo;I+Am+From+Brazil/SP;This+Is+My+Profile;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=066699&size=50&center=true&vCenter=true&width=1000&lines=Hey+Guys;My+Name+Is+Gustavo;I+Am+From+Brazil/São+Paulo;This+Is+My+Profile;Be+Welcome!)](https://git.io/typing-svg)
 
 
 
@@ -12,10 +12,9 @@
   ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   askMeAbout: ["Codes", "Ideas"],
-   currentOccupation: ["Student that is open to learn new languages"],
+   currentOccupation: ["My college and courses"],
    challenge: "Learn React and TypeScript",
-   currentProject: "My-project"
+   currentProject: "Study-Project"
 };
 ```
 
