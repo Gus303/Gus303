@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=066699&size=50&center=true&vCenter=true&width=1000&lines=Hey+Guys;My+Name+Is+Gustavo;I+Am+From+Brazil/São+Paulo;This+Is+My+Profile;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=50&center=true&vCenter=true&width=1000&lines=Hey+Guys;My+Name+Is+Gustavo;I+Am+From+Brazil/São+Paulo;This+Is+My+Profile;Be+Welcome!)](https://git.io/typing-svg)
 
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gus303&show_icons=true&count_private=true&hide_border=true&title_color=066699&icon_color=066699&text_color=066699&bg_color=0d1117" alt="Gustavo Rocha github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gus303&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Gustavo Rocha github stats" />
   
 <img alt="OctoGus" src="logo_blue_real.png" height="240px" width="240px">
   
