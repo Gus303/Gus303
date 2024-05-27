@@ -5,7 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gus303&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Gustavo Rocha github stats" />
   
-<img width="400" height="300" src="rcfullhdpcpng.png" alt="codding gus" >
+<img height="196" src="rcfullhdpcpng.png" alt="codding gus" >
   
 <br>
   
