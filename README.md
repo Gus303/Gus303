@@ -12,7 +12,7 @@
   ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   currentOccupation: ["My college and courses"],
+   currentOccupation: ["My university and courses"],
    challenge: "Learn React and TypeScript",
    currentProject: "Study-Project"
 };
