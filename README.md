@@ -13,8 +13,8 @@
 const aboutMe = {
    pronouns: "he" | "him",
    currentOccupation: ["My university and courses"],
-   challenge: "Learn React and TypeScript",
-   currentProject: "Study-Project"
+   challenge: "Learn NodeJS, React and TypeScript",
+   currentProject: "NodeJS-Basic, TypeScript-Basics & React-Basics"
 };
 ```
 
@@ -29,7 +29,7 @@ const aboutMe = {
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
    
   </div>
 
