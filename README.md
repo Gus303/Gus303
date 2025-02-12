@@ -5,7 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gus303&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Github stats" />
   
-<img height="196" src="rcfullhdpcpng.png" alt="codding gus" >
+<img height="196" src="img/rcfullhdpcpng.png" alt="codding gus" >
 
   
 <br>
@@ -65,9 +65,7 @@ studying: "Computer Engineering",
 
 
 <p align="left">
-    <a href="mailto:contatogustavoroc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-    <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-    <a href="https://www.instagram.com/delaroche303/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-    <a href="https://www.instagram.com/delaroche303/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-    <a href="https://www.instagram.com/delaroche303/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="img/linkedin.svg"</a>
+    <a href="https://www.instagram.com/delaroche303/" target="_blank"><img src="img/instagram.svg"</a>
+    <a href="https://open.spotify.com/user/m64ceycebjpw4xlz1wg1g98tz" target="_blank"><img src="img/spotify.svg"</a>
 </p>
