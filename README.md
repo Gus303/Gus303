@@ -7,6 +7,11 @@
   
 <img height="196" src="img/rcfullhdpcpng.png" alt="codding gus" >
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="img/linkedin.svg"></a>
+    <a href="https://www.instagram.com/delaroche303/" target="_blank" ><img src="img/instagram.svg"></a>
+    <a href="https://open.spotify.com/user/m64ceycebjpw4xlz1wg1g98tz" target="_blank"><img src="img/spotify.svg"></a>
+</p>
   
 <br>
   
@@ -57,15 +62,3 @@ studying: "Computer Engineering",
           
   </p>
 </details>
-
- <br/>
- <br/>
- <br/>
- <br/>
-
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="img/linkedin.svg"</a>
-    <a href="https://www.instagram.com/delaroche303/" target="_blank"><img src="img/instagram.svg"</a>
-    <a href="https://open.spotify.com/user/m64ceycebjpw4xlz1wg1g98tz" target="_blank"><img src="img/spotify.svg"</a>
-</p>
