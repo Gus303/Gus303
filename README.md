@@ -52,6 +52,8 @@ studying: "Computer Engineering",
  <br/>
  <br/>
  <br/>
+ <br/>
+ <br/>
 
   <h3 align="left">🧰 Programs</h3>
   <p>
@@ -62,3 +64,10 @@ studying: "Computer Engineering",
           
   </p>
 </details>
+
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+
