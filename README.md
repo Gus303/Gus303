@@ -71,3 +71,17 @@ studying: "Computer Engineering",
  <br/>
  <br/>
 
+ <details> 
+  <summary><h2>👨‍💻 My learn basic projects</h2></summary>
+    
+ <div>
+   <a href="https://github.com/Gus303/HTML-CCSS-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=HTML-CCSS-Basics&theme=github_dark_dimmed"/></a>
+   <a href="https://github.com/Gus303/JavaScript-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=JavaScript-Basics&theme=github_dark_dimmed"/></a>
+   <a href="https://github.com/Gus303/NodeJS-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=NodeJS-Basics&theme=github_dark_dimmed"/></a>
+   <a href="https://github.com/Gus303/Python-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=Python-Basics&theme=github_dark_dimmed"/></a>
+ </div>
+  
+</details>
+
+
+
