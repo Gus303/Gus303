@@ -24,6 +24,10 @@ studying: "Computer Engineering",
 };
 ```
 
+ <br/>
+ <br/>
+ <br/>
+
   <details> 
   <summary><h2>👨‍💻 My languages and Technologies I'm Learning</h2></summary>
     
@@ -65,8 +69,6 @@ studying: "Computer Engineering",
   </p>
 </details>
 
- <br/>
- <br/>
  <br/>
  <br/>
  <br/>
