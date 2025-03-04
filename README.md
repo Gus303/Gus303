@@ -7,11 +7,7 @@
   
 <img height="196" src="img/rcfullhdpcpng.png" alt="codding gus" >
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="img/linkedin.svg"></a>
-    <a href="https://www.instagram.com/delaroche303/" target="_blank" ><img src="img/instagram.svg"></a>
-    <a href="https://open.spotify.com/user/m64ceycebjpw4xlz1wg1g98tz" target="_blank"><img src="img/spotify.svg"></a>
-</p>
+
   
 <br>
   
@@ -23,11 +19,13 @@ pronouns: "he" | "him",
 studying: "Computer Engineering",  
 };
 ```
-
- <br/>
- <br/>
- <br/>
-
+<p align="center">
+    <h3>How to reach me:</h3>
+    <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="img/linkedin.svg"></a>
+    <a href="https://www.instagram.com/delaroche303/" target="_blank" ><img src="img/instagram.svg"></a>
+    <a href="https://open.spotify.com/user/m64ceycebjpw4xlz1wg1g98tz" target="_blank"><img src="img/spotify.svg"></a>
+</p>
+ 
   <details> 
   <summary><h2>👨‍💻 My languages and Technologies I'm Learning</h2></summary>
     
@@ -42,12 +40,9 @@ studying: "Computer Engineering",
       <img align="left" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
       <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
       <img align="left" alt="NodeJS" width="50px" src="https://img.icons8.com/fluency/48/node-js.png" />
-      <img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-      <img align="left" alt="Postgres" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
       <img align="left" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-
-          
-          
+      <img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+      <img align="left" alt="Postgres" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />    
 
   </p>
 
@@ -80,11 +75,14 @@ studying: "Computer Engineering",
   <summary><h2>👨‍💻 My learn basic projects</h2></summary>
     
    <a href="https://github.com/Gus303/HTML-CCSS-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=HTML-CCSS-Basics&theme=github_dark_dimmed"/></a>
-   <a href="https://github.com/Gus303/JavaScript-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=JavaScript-Basics&theme=github_dark_dimmed"/></a>
-   <a href="https://github.com/Gus303/NodeJS-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=NodeJS-Basics&theme=github_dark_dimmed"/></a>
    <a href="https://github.com/Gus303/Python-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=Python-Basics&theme=github_dark_dimmed"/></a>
+   <a href="https://github.com/Gus303/JavaScript-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=JavaScript-Basics&theme=github_dark_dimmed"/></a>
    <a href="https://github.com/Gus303/TypeScript-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=TypeScript-Basics&theme=github_dark_dimmed"/></a>
    <a href="https://github.com/Gus303/React-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=React-Basics&theme=github_dark_dimmed"/></a>
+   <a href="https://github.com/Gus303/ReactNative-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=ReactNative-Basics&theme=github_dark_dimmed"/></a>
+   <a href="https://github.com/Gus303/NodeJS-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=NodeJS-Basics&theme=github_dark_dimmed"/></a>
+   <a href="https://github.com/Gus303/Docker-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=Docker-Basics&theme=github_dark_dimmed"/></a>
+   
   
 </details>
 
