@@ -21,9 +21,9 @@ studying: "Computer Engineering",
 ```
 <p align="center">
     <h3>How to reach me:</h3>
-    <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="img/linkedin.svg"></a>
-    <a href="https://www.instagram.com/delaroche303/" target="_blank" ><img src="img/instagram.svg"></a>
-    <a href="https://open.spotify.com/user/m64ceycebjpw4xlz1wg1g98tz" target="_blank"><img src="img/spotify.svg"></a>
+    <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="img/linkedin.svg" alt="LinkedIn - Gustavo Rocha"></a>
+    <a href="https://www.instagram.com/delaroche303/" target="_blank" ><img src="img/instagram.svg" alt="Instagram - @delaroche303"></a>
+    <a href="https://open.spotify.com/user/m64ceycebjpw4xlz1wg1g98tz" target="_blank"><img src="img/spotify.svg" alt="Spotify - Delaroche"></a>
 </p>
  
   <details> 
@@ -72,7 +72,7 @@ studying: "Computer Engineering",
  <br/>
 
  <details> 
-  <summary><h2>👨‍💻 My learn basic projects</h2></summary>
+  <summary><h2>👨‍💻 My basic learning projects</h2></summary>
     
    <a href="https://github.com/Gus303/HTML-CCSS-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=HTML-CCSS-Basics&theme=github_dark_dimmed"/></a>
    <a href="https://github.com/Gus303/Python-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=Python-Basics&theme=github_dark_dimmed"/></a>
