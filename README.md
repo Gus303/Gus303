@@ -19,6 +19,7 @@ pronouns: "he" | "him",
 studying: "Computer Engineering",  
 };
 ```
+
 <p align="center">
     <h3>How to reach me:</h3>
     <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="img/linkedin.svg" alt="LinkedIn - Gustavo Rocha"></a>
