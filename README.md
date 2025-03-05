@@ -80,9 +80,9 @@ studying: "Computer Engineering",
    <a href="https://github.com/Gus303/JavaScript-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=JavaScript-Basics&theme=github_dark_dimmed"/></a>
    <a href="https://github.com/Gus303/TypeScript-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=TypeScript-Basics&theme=github_dark_dimmed"/></a>
    <a href="https://github.com/Gus303/React-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=React-Basics&theme=github_dark_dimmed"/></a>
-   <a href="https://github.com/Gus303/ReactNative-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=ReactNative-Basics&theme=github_dark_dimmed"/></a>
    <a href="https://github.com/Gus303/NodeJS-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=NodeJS-Basics&theme=github_dark_dimmed"/></a>
    <a href="https://github.com/Gus303/Docker-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=Docker-Basics&theme=github_dark_dimmed"/></a>
+    <a href="https://github.com/Gus303/SQL-Basics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gus303&repo=SQL-Basics&theme=github_dark_dimmed"/></a>
    
   
 </details>
