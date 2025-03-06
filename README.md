@@ -22,7 +22,7 @@ studying: "Computer Engineering",
 
 <p align="center">
     <h3>How to reach me:</h3>
-    <a href="https://dev.to/gus303" target="_blank"><img width="40" height="40" src="https://img.icons8.com/color/100/dev-community.png" alt="dev-community"/></a>
+    <a href="https://dev.to/gus303" target="_blank"><img width="40" height="40" src="img/icons8-dev-community.svg" alt="dev-community"/></a>
     <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="img/linkedin.svg" alt="LinkedIn - Gustavo Rocha"></a>
     <a href="https://www.instagram.com/delaroche303/" target="_blank" ><img src="img/instagram.svg" alt="Instagram - @delaroche303"></a>
     <a href="https://open.spotify.com/user/m64ceycebjpw4xlz1wg1g98tz" target="_blank"><img src="img/spotify.svg" alt="Spotify - Delaroche"></a>
