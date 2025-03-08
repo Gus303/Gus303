@@ -26,7 +26,7 @@ studying: "Computer Engineering",
     <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/delaroche303/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://dribbble.com/Gus303" target="_blank" ><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"></a>
-    <a href="https://dev.to/gus303" target="_blank" ><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
 </p>
 <p>
       <a href="contatogustavoroc@gmail.com" target="_blank" ><img height="25px" src="https://img.shields.io/badge/contatogustavoroc%40gmail.com-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&label=Gmail&labelColor=%23EA4335&color=%23EA4335" alt="Email"></a>
