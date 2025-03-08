@@ -29,7 +29,7 @@ studying: "Computer Engineering",
     <a href="https://dev.to/gus303"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
 </p>
 <p>
-      <img height="25px" src="https://img.shields.io/badge/contatogustavoroc%40gmail.com-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&label=Gmail&labelColor=%23EA4335&color=%23EA4335" alt="Email">
+     <a href="mailto:contatogustavoroc@gmail.com"> <img height="25px" src="https://img.shields.io/badge/contatogustavoroc%40gmail.com-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&label=Gmail&labelColor=%23EA4335&color=%23EA4335" alt="Email"> </a>
 </p>
 </div>
  
