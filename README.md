@@ -67,7 +67,6 @@ studying: "Computer Engineering",
           <img align="left" alt="Postman" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
           <img align="left" alt="Canva" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
           <img align="left" alt="Figma" width="50px" src="https://img.icons8.com/color/48/figma--v1.png" />
-          <img align="left" alt="Gimp" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain.svg" />
           <img align="left" alt="Office" width="48px" src="https://img.icons8.com/color/48/microsoft-office-2019.png"/>
           <img align="left" alt="PowerBI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 
