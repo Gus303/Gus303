@@ -31,8 +31,7 @@ studying: "Computer Engineering",
 </p>
 </div>
  
-  <details> 
-  <summary><h2>👨‍💻 My languages and Technologies I'm Learning</h2></summary>
+  <h2>👨‍💻 My languages and Technologies I'm Learning</h2>
     
   <h3 align="left">💻 Languages & Technologies</h3>
   <!-- I'm still studying them -->
@@ -73,4 +72,3 @@ studying: "Computer Engineering",
 
           
   </p>
-</details>
