@@ -20,6 +20,8 @@ studying: "Computer Engineering",
 };
 ```
 
+##
+
 <div align="center">
   <p>
     <h3>How to Contact Me:</h3>
@@ -30,8 +32,10 @@ studying: "Computer Engineering",
      <a href="mailto:gurocha05@gmail.com"> <img height="25px" src="https://img.shields.io/badge/gurocha05%40gmail.com-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&label=Gmail&labelColor=%23EA4335&color=%23EA4335" alt="Email"> </a>
 </p>
 </div>
- 
-  <h2>👨‍💻 My languages and Technologies I'm Learning</h2>
+
+ ##
+
+  <h3>👨‍💻 My languages and Technologies I'm Learning</h3>
     
   <h3 align="left">💻 Languages & Technologies</h3>
   <!-- I'm still studying them -->
