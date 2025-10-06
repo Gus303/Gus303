@@ -1,15 +1,14 @@
-<div align="center">
-<h1>Hello, Be Welcome👋</h1>
-</div>
+# 💾 Gustavo Rocha
+
+  **`Web Developer (JS/PY/TS)`**
+  
+ <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <a href="https://www.instagram.com/delaroche303/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gus303&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Github stats" />
-  
-<img height="196" src="img/rcfullhdpcpng.png" alt="codding gus" >
+  <img width="36%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gus303&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Github stats" />
+  <img height="156" src="img/rcfullhdpcpng.png" alt="codding gus" >
 
-
-  
-<br>
   
   ```javascript
 const aboutMe = {
@@ -20,37 +19,23 @@ studying: "Computer Engineering",
 };
 ```
 
-##
-
-<div align="center">
-  <p>
-    <h3>How to Contact Me:</h3>
-    <a href="https://www.linkedin.com/in/gustavo-rocha-a047a426a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/delaroche303/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-<p>
-     <a href="mailto:gurocha05@gmail.com"> <img height="25px" src="https://img.shields.io/badge/gurocha05%40gmail.com-%23EA4335?style=social&logo=gmail&logoColor=%23EA4335&label=Gmail&labelColor=%23EA4335&color=%23EA4335" alt="Email"> </a>
-</p>
-</div>
-
  ##
 
-  <h3>👨‍💻 My languages and Technologies I'm Learning</h3>
+### 📁 My languages and Tools
     
   <h3 align="left">💻 Languages & Technologies</h3>
-  <!-- I'm still studying them -->
+
   
   <p>
       <img align="left" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
       <img align="left" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-      <img align="left" alt="Tailwind" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />  
-      <img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
+      <img align="left" alt="Tailwind" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />    
       <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
       <img align="left" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+      <img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+      <img align="left" alt="NodeJS" width="50px" src="https://img.icons8.com/fluency/48/node-js.png" />
       <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
       <img align="left" alt="Next" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-      <img align="left" alt="NodeJS" width="50px" src="https://img.icons8.com/fluency/48/node-js.png" />
-      <img align="left" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
       <img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
       <img align="left" alt="Postgres" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
       <img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
@@ -76,3 +61,5 @@ studying: "Computer Engineering",
 
           
   </p>
+
+</div>
