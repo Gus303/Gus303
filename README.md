@@ -1,6 +1,6 @@
 # 💾 Gustavo Rocha
 
-  **`Web Developer (JS/PY/TS)`**
+  **`Web Developer (JS/PY/JV)`**
 
 <div>  
   
