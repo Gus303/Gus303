@@ -4,7 +4,7 @@
 
 <div>  
   
-  <img height="156" src="img/rcfullhdpcpng.png" alt="codding gus" >
+  <img height="156" src="img/comissao_star_quarto_grande_sem_fundo.gif" alt="codding gus" >
 
   
   ```javascript
